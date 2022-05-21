@@ -1,9 +1,9 @@
 # NLP Course Final Project Template
 
-# Repo intro
+## Repo intro
 
-# Installation | Requirements
+## Installation | Requirements
 
-# Quickstart
+## Quickstart
 
-# Resources
+## Resources
